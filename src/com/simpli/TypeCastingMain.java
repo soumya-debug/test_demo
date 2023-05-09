@@ -13,6 +13,7 @@ public class TypeCastingMain {
 		float c = a;
 		System.out.println("Value of c: "+c);
 		long d = a;
+		//..
 		System.out.println("Value of d: "+d);
 		double e = a;
 		System.out.println("Value of e: "+e);
